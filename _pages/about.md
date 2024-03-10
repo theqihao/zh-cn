@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). My advisors are Dr. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/).
+I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). My advisors are Prof. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
 <!-- My research focuses on deployable hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics. -->
 
