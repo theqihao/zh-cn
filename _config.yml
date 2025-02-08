@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "齐豪"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
+  bio              : "华中科技大学 博士研究生"
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : https://dblp.org/pid/24/8493-4.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : https://orcid.org/0000-0002-3273-5381
   pinterest        :
   soundcloud       :

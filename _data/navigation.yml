@@ -3,8 +3,6 @@ main:
   - title: "简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
 
   - title: "论文"
     url: "/zh-cn/#-lwzl"
@@ -12,5 +10,8 @@ main:
   - title: "荣誉奖项"
     url: "/zh-cn/#-ryjx"
 
-  - title: "工作实习"
+  - title: "学历"
+    url: "/zh-cn/#-xl"
+
+  - title: "实习"
     url: "/zh-cn/#-gzsx"
