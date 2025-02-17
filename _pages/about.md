@@ -20,7 +20,8 @@ redirect_from:
 
 齐豪是华中科技大学计算机科学与技术学院的博士研究生，导师为张宇教授和[CGCL实验室](http://grid.hust.edu.cn/)主任金海教授。
 
-他的主要研究方向为面向图计算和人工智能应用的高性能软件系统和体系架构, 相关论文已发表在Eurosys、DAC等国际会议和期刊上。
+他的主要研究方向为面向图计算和人工智能的高性能软件系统和体系结构, 相关论文发表在Eurosys、DAC等国际会议和期刊上。
+
 
 
 <!-- My research focuses on deployable hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics. -->
@@ -46,6 +47,10 @@ redirect_from:
 * **[EuroSys'25]** OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining<br>
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
 The Twentieth European Conference on Computer Systems, 2025
+
+* **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
+Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
+The 62th ACM/IEEE Design Automation Conference, 2025
 
 * **[TACO'24]** An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing<br>
 Jin Zhao, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhan Zhang<br>
@@ -75,15 +80,20 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/aiter.pdf)
 Xiao-Bing Chen, **<u>Hao Qi</u>**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
+* **[中国科学: 信息科学'25]** 面向CPU-GPU异构环境下的高性能超图神经网络加速系统<br>
+余辉, 张宇, 李鑫滔, 陈子康, 赵英淇, 赵进, **<u>齐豪</u>**, 廖小飞, 金海<br>
+中国科学: 信息科学, 2025
 
-
-
+* **[计算机研究与发展'24]** 图计算体系结构和系统软件关键技术综述<br>
+张宇, 姜新宇, 余辉, 赵进, **<u>齐豪</u>**, 廖小飞, 金海, 王彪, 余婷<br>
+计算机研究与发展, 2024
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
 - *2024.11* 国家奖学金
 - *2024.05* 华为奖学金
+- *2023.08* 第十届"创青春"中国青年创新创业大赛 银奖 
 - *2021.04* 中关村研究生基础奖学金
 - *2020.01* 寒武纪奖学金
 - *2018.12* 寒武纪奖学金
