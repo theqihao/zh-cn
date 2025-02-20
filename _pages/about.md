@@ -66,7 +66,7 @@ The Nineteenth European Conference on Computer Systems, 2024 | [[pdf]](/files/LS
 
 * **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining<br>
 **<u>Hao Qi</u>**, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, Jin Zhao, Hai Jin<br>
-The 60th Design Automation Conference, 2023 | [[pdf]](/files/PSMiner.pdf)
+The 60th ACM/IEEE Design Automation Conference, 2023 | [[pdf]](/files/PSMiner.pdf)
 
 * **[Intelligent Computing'22]** Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
 Hai Jin, **<u>Hao Qi</u>**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
