@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <!-- I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). My advisors are Prof. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/). -->
 
-齐豪是华中科技大学计算机科学与技术学院的博士研究生，导师为张宇教授和[CGCL实验室](http://grid.hust.edu.cn/)主任金海教授。
+齐豪是华中科技大学计算机科学与技术学院的博士研究生，导师为[CGCL实验室](http://grid.hust.edu.cn/)主任金海教授。
 
 他的主要研究方向为面向图计算和人工智能的高性能软件系统和体系结构, 相关论文发表在EuroSys、DAC等国际会议和期刊上。
 
@@ -46,7 +46,7 @@ redirect_from:
 
 * **[EuroSys'25]** OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining<br>
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
-The Twentieth European Conference on Computer Systems, 2025
+The Twentieth European Conference on Computer Systems, 2025 | [[pdf]](/files/OHMiner.pdf)
 
 * **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
 Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
