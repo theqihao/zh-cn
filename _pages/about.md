@@ -48,6 +48,10 @@ redirect_from:
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
 The Twentieth European Conference on Computer Systems, 2025 | [[pdf]](/files/OHMiner.pdf)
 
+* **[ASPLOS'25]** TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU<br>
+Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, **<u>Hao Qi</u>**, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin<br>
+The 30th International Conference on Architectural Support for Programming Languages and Operating Systems, 2025
+
 * **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
 Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
 The 62th ACM/IEEE Design Automation Conference, 2025
