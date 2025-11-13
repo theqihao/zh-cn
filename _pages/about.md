@@ -44,22 +44,25 @@ redirect_from:
 
 # 📝 论文
 
+* **[PPoPP'26]** DTMiner: A Data-centric System for Efficient Temporal Motif Mining<br>
+Yinbo Hou**\***, **<u>Hao Qi</u>\* (Co--first author)**, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin.
+The 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, 2026
+
 * **[EuroSys'25]** OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining<br>
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
 The Twentieth European Conference on Computer Systems, 2025 | [[pdf]](/files/OHMiner.pdf)
 
 * **[ASPLOS'25]** TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU<br>
 Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, **<u>Hao Qi</u>**, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin<br>
-The 30th International Conference on Architectural Support for Programming Languages and Operating Systems, 2025
+The 30th International Conference on Architectural Support for Programming Languages and Operating Systems, 2025 | [[pdf]](/files/TempGraph.pdf)
 
 * **[SC'25]** TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network<br>
 Hui Yu, Yu Zhang, Ligang He, Bing Peng, Jin Zhao, Zixiao Wang, **<u>Hao Qi</u>**, Hai Jin<br>
 The 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025
 
-
 * **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
 Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
-The 62th ACM/IEEE Design Automation Conference, 2025
+The 62th ACM/IEEE Design Automation Conference, 2025  | [[pdf]](/files/DCART.pdf)
 
 * **[TACO'24]** An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing<br>
 Jin Zhao, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhan Zhang<br>
